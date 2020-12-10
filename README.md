@@ -23,6 +23,6 @@
    para obtener la información contenida alli, en este caso  nombre de las películas,fecha de estreno e imagen de las mismas, así mismo esta información se 
    procesa removiendo etiquetas propias del html.
    
-   Esta información es almacenada en un archivo txt para un posterior uso en la interfaz gráfica del proyecto (PYFLIX) funcionando como un canal de estrenos próximos.
+   Esta información es almacenada en un archivo txt para un posterior uso en la interfaz gráfica del proyecto ("PYFLIX"  https://github.com/sabeltranr/ENTREGA_2) funcionando como un canal de estrenos próximos.
  
 _**Nota:** se adjunta un archivo html en caso de que la página no permita mas solicitudes, en este se debera cambuar el URL y agregar el enrutamineto hacia el archivo y la ubicación del mismo._
