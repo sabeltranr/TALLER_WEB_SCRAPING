@@ -56,7 +56,7 @@ def main():
             las imagenes de estos estrenos.
         """
 
-    url = "file:///C:/Users/Usuario/Downloads/webscraping.html"
+    url = "https://www.espinof.com/listas/peliculas-estreno-esperadas-2021"
     page = urlopen(url)
     html = page.read().decode("utf-8")
     soup = BeautifulSoup(html, "html.parser")
