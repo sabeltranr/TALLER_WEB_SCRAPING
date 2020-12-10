@@ -27,4 +27,4 @@
 
 ![TALLER-TKINTER](https://github.com/sabeltranr/TALLER_WEB_SCRAPING/blob/main/FUNCIONAMIENTO.png)
  
-_**Nota:** se adjunta un archivo txt con el codigo html en caso de que la página no permita mas solicitudes, en este se debera cambuar el URL y agregar el enrutamineto hacia el archivo y la ubicación del mismo._
+_**Nota:** se adjunta un archivo txt (https://github.com/sabeltranr/TALLER_WEB_SCRAPING/blob/main/taller-webscraping.txt) con el codigo html en caso de que la página no permita mas solicitudes, en este se debera cambuar el URL y agregar el enrutamineto hacia el archivo y la ubicación del mismo._
