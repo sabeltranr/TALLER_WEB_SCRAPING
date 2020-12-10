@@ -24,5 +24,7 @@
    procesa removiendo etiquetas propias del html.
    
    Esta información es almacenada en un archivo txt para un posterior uso en la interfaz gráfica del proyecto ("PYFLIX"  https://github.com/sabeltranr/ENTREGA_2) funcionando como un canal de estrenos próximos.
+
+![TALLER-TKINTER](https://github.com/sabeltranr/TALLER_WEB_SCRAPING/blob/main/FUNCIONAMIENTO.png)
  
 _**Nota:** se adjunta un archivo html en caso de que la página no permita mas solicitudes, en este se debera cambuar el URL y agregar el enrutamineto hacia el archivo y la ubicación del mismo._
